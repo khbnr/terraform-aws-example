@@ -1,0 +1,6 @@
+.idea
+.terraform
+*.tfplan
+*.tfstate
+*.zip
+node_modules
